@@ -25,4 +25,4 @@ while True:
     
     except ValueError:
 
-        print("Invalid entry, please enter 'a', 'r', or 'q' in lowercase.")
+        print("Invalid weight entered, please use numbers only.")
